@@ -1,0 +1,23 @@
+{
+  "name": "backstop_js",
+  "version": "1.0.0",
+  "description": "init with BackstopJS",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/rudda/backstop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rudda/backstop/issues"
+  },
+  "homepage": "https://gitlab.com/rudda/backstop#README",
+  "dependencies": {
+    "backstopjs": "^3.8.8",
+    "walk": "^2.3.14"
+  }
+}
